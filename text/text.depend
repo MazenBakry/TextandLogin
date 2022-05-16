@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1652640268 source:d:\new folder\text\functions.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<conio.h>
+	"text.h"
+
+1652601912 d:\new folder\text\text.h
+	<algorithm>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+
+1652605801 source:d:\new folder\text\main.cpp
+	"text.h"
+
+1652651236 source:c:\users\pc\desktop\text\functions.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<conio.h>
+	"text.h"
+
+1652601912 c:\users\pc\desktop\text\text.h
+	<algorithm>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+
+1652605801 source:c:\users\pc\desktop\text\main.cpp
+	"text.h"
+
