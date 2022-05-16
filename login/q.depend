@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1652611091 source:d:\new folder\q\functions.cpp
+	<bits/stdc++.h>
+	"conio.h"
+	"loginAppFunctions.h"
+
+1652622435 d:\new folder\q\loginappfunctions.h
+	<vector>
+	"conio.h"
+
+1652622435 source:d:\new folder\q\main.cpp
+	<string>
+	<iostream>
+	<vector>
+	"loginAppFunctions.h"
+
+1652622435 source:c:\users\pc\desktop\q\main.cpp
+	<string>
+	<iostream>
+	<vector>
+	"loginAppFunctions.h"
+
+1652622435 c:\users\pc\desktop\q\loginappfunctions.h
+	<vector>
+	"conio.h"
+
+1652611091 source:c:\users\pc\desktop\q\functions.cpp
+	<bits/stdc++.h>
+	"conio.h"
+	"loginAppFunctions.h"
+
